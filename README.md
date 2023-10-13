@@ -6,8 +6,8 @@ I'm experienced FullStack Engineer specialized in RESTful Systems and hybrid mob
 I've been working as freelancer more than 10 years, facing clients, translating their business needs into technical requirements and writting up documentation.
 Strongly creative capable of bringing different approaches to a problem looking for best balance of time consumption and maintainability, always thinking about specific situation to fit the best solution. I like to discuss it with clients in a transparent way given them scenarios to realize possible approach and its consequences. Capable of doing this communication for technical and non-technical audiences in english, spanish and portuguese.
 I learned a lot about how to manage my time from freelancer experiences handling more than one project at same time and balance that with my personal life.
-I've already introduce development career to beginners, teaching and mentoring individuals and small teams respecting individualities.
-Last 3 years I've been working in a middle-sized software house company under agile methodologies, JIRA and Trello boards, totally use to pair programming, daily meetings with colleagues and weekly meetings with clients and managers. Very comfortable with TDD, BDD, monitoring tools like Sentry and Loggly, SEO and Accessibility issues, Data Analysis.
+I've already introduced development career to beginners, teaching and mentoring individuals and small teams respecting individualities.
+Last 3 years I've been working in a middle-sized software house company under agile methodologies, totally use to pair programming, cross teams discussions, daily meetings with colleagues and weekly meetings with clients and managers. Very comfortable with TDD, BDD, monitoring tools like Sentry and Loggly, SEO and Accessibility issues, Data Analysis.
 
 
 ## Featured Professional hard skills

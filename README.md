@@ -19,7 +19,6 @@ Last 3 years I've been working in a middle-sized software house company under ag
 + Slimframework, Yii, Symfony, Lumen, Flask and Django to build REST APIs.
 + Apache Cordova for mobile hybrid applications.
 + Ionic framework (Cordova with Angular) and React Native with Expo.
-+ 
 + CLI automation with Shell Script, C++, Python and NodeJS.
 + Unit and Integration tests for PHP, Python, JavaScript, C and C++.
 + Cypress for e2e tests.

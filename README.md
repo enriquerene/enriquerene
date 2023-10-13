@@ -2,7 +2,7 @@
 My name is Enrique René (@enriquerene). I'm LATAM Software Engineer from Rio de Janeiro, Brazil.
 I’m a collaborative Problem Solver focused on team’s goals, always willing to share and learn from others. Challenges excite me, and I'm always seeking new opportunities to learn and grow professionally.
 
-I'm experienced FullStack Engineer in RESTful Systems and hybrid mobile applications.
+I'm experienced FullStack Engineer specialized in RESTful Systems and hybrid mobile applications.
 I've been working as freelancer more than 10 years, facing clients, translating their business needs into technical requirements and writting up documentation.
 Strongly creative capable of bringing different approaches to a problem looking for best balance of time consumption and maintainability, always thinking about specific situation to fit the best solution. I like to discuss it with clients in a transparent way given them scenarios to realize possible approach and its consequences. Capable of doing this communication for technical and non-technical audiences in english, spanish and portuguese.
 I learned a lot about how to manage my time from freelancer experiences handling more than one project at same time and balance that with my personal life.

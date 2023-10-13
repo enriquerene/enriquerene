@@ -25,7 +25,7 @@ Last 3 years I've been working in a middle-sized software house company under ag
 # Interests
 I like the job I already do as Full Stack Engineer. It would be nice to try new frameworks like Laravel, NextJS and NestJS or engage in programming languages I'm not use to code daily like Ruby and Rust.
 I'm also interested in Artificial Inteligence related subjects like Machine Learning, LLM and Optical Char Recognition. I believe I'll do it well in such areas because I have a great mathematical background from my Physics graduation and nice Python and C++ development skills.
-Data Engineer and Full Stack Engineer with data-centric approach are the positions that attract me most, but there is a bunch of other positions what catch my attention also like Embedded Software Engineer, Game Developer, CMS Developer, Linux Developer.
+Data Engineer and Full Stack Engineer with data-centric approach are the positions that attract me most, but there is a bunch of other positions what catch my attention also like Embedded Software Engineer, Game Developer, CMS Developer, Linux Developer. Teach software development also sounds good for me, I've already helped some people to get into developer career and get jobs.
 
 # Get in touch
 - Take a look on my webpage https://enriquerene.com.br

@@ -9,7 +9,6 @@ I learned a lot about how to manage my time from freelancer experiences handling
 I've already introduced development career to beginners, teaching and mentoring individuals and small teams respecting individualities.
 Last 3 years I've been working in a middle-sized software house company under agile methodologies, totally use to pair programming, cross teams discussions, daily meetings with colleagues and weekly meetings with clients and managers. Very comfortable with TDD, BDD, monitoring tools like Sentry and Loggly, SEO and Accessibility issues, Data Analysis.
 
-
 ## Featured Professional hard skills
 + Linux Apache (or Nginx) MySQL PHP (LAMP) stack.
 + ReactJS entire life cycle, class and functional components, hooks, context API.

@@ -21,7 +21,7 @@ My career trajectory is focused on gaining certifications and professional recog
 + Apache Cordova and React Native.
 + CLI automation with Shell Script, C++, Python and NodeJS.
 + WordPress, Plugins and Theme development, WP REST API, Woocommerce REST API, WP CLI.
-+ Yii, Symfony, Lumen, Flask and Django REST Framework.
++ Yii, Lumen, Flask and Django REST Framework.
 
 # Interests
 As a Full Stack Engineer, I am drawn to roles that allow me to leverage my JavaScript/TypeScript skills, particularly in the Node.js environment. I am also interested in exploring AI-related areas like Machine Learning and Optical Character Recognition, backed by my strong mathematical background and Python skills. Teaching and mentoring in software development is another passion, having already guided many into successful tech careers.

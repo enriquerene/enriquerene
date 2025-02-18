@@ -5,8 +5,11 @@ I'm Enrique René, based in Rio de Janeiro, Brazil. With over 10 years of experi
 
 ## Featured Steps
 **Fight Gym**: Founder and Engineer of a White Label platform consisting in a React Native mobile app backed by WordPress.
+
 **CNF**: Lead the migration of a legacy PHP system to Laravel framework, implementing a REST API and redesigning the database to handle large datasets exceeding 15GB.
+
 **PetCoach**: Maintain a Cordova Web App and REST API built in Symfony for a major US Pet Care service, driving SEO and accessibility improvements, leveraging AWS infrastructure, and manage the deployment and scaling of the application, ensuring reliability and performance with effective cross-team work.
+
 **Milbby** : I was part of a large team handling the UI/UX redesign of a Shopify Theme for a leading Spanish e-commerce with more than 2000 products and hundreds of categories, focusing on cross-browser compatibility and performance optimization, which reduced load times by almost 70%.
 
 ## Key Skills

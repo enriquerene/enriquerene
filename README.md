@@ -1,10 +1,12 @@
 # Who I am
-I'm Enrique René, based in Rio de Janeiro, Brazil. With over 10 years of experience as a freelancer and 4 years in an outsourcing company, I excel at translating clients' needs into innovative technical solutions. Fluent in English, Spanish, and Portuguese, I effectively communicate in diverse global environments.
+I'm Enrique René, a Web and Mobile Developer based in Rio de Janeiro, Brazil.  with more than 10 years of experience as freelancer and more than 4 years in an outsourcing near-shore tech company where I 
+ - **10+ years** of experience as freelancer, **facing-client**, **translating client's needs into technical solutions**.
+ - **4+ years** of experience in an outsourcing near-shore tech company where I work for **internation clients** in **global environment** following **agile methodologies**.
 
 # Professional Journey
 
 ## Featured Steps
-**Fight Gym**: Founder and Engineer of a White Label platform consisting in a React Native mobile app backed by WordPress.
+**Unnamed**: Multi-vendor mobile platform solution focused on specific niche needs, built in React Native backed by WordPress and custom plugin extending WooCommerce REST API endpoints.
 
 **CNF**: Lead the migration of a legacy PHP system to Laravel framework, implementing a REST API and redesigning the database to handle large datasets exceeding 15GB.
 

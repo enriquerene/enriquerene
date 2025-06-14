@@ -18,6 +18,8 @@ I'm Enrique René, a Web and Mobile Developer based in Rio de Janeiro, Brazil.
 
 **Orça Agora**: Web platform where printers can see a list of orders and send service proposals to the users who posted them. In turn, users decide who to close a deal with and evaluate the service after delivery. Reward third-party service integration. **Lead a team** composed by two junior developers, management of Trello boards in **startup environment** where developers, client and investor can track progress. Weekly meeting with client and monthly with investors. Tech stack **PHP**, **ReactJS** and **Redux**.
 
+**StudioX2**: Digital Marketing Agency where I build several websites using **WordPress** as base. **SEO** focused job as the company main product is to be top 10 ranked in Google pages.
+
 ## Key Skills
 
 ### Full Stack Web Development

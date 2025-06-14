@@ -1,5 +1,5 @@
 # Who I am
-I'm Enrique René, a Web and Mobile Developer based in Rio de Janeiro, Brazil.  with more than 10 years of experience as freelancer and more than 4 years in an outsourcing near-shore tech company where I 
+I'm Enrique René, a Web and Mobile Developer based in Rio de Janeiro, Brazil.
  - **10+ years** of experience as freelancer, **facing-client**, **translating client's needs into technical solutions**.
  - **4+ years** of experience in an outsourcing near-shore tech company where I work for **internation clients** in **global environment** following **agile methodologies**.
 

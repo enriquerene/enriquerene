@@ -14,6 +14,10 @@ I'm Enrique René, a Web and Mobile Developer based in Rio de Janeiro, Brazil.  
 
 **Milbby** : I was part of a large team handling the UI/UX redesign of a Shopify Theme for a leading Spanish e-commerce with more than 2000 products and hundreds of categories, focusing on cross-browser compatibility and performance optimization, which reduced load times by almost 70%.
 
+**Clínica Vegetal**
+
+**Orça Agora**
+
 ## Key Skills
  + **PHP Programming**: My primary expertise is in PHP development, with a strong foundation Vanilla PHP and frameworks like **Laravel**, **Slimframework** and Symfony as well. This forms the backbone of my backend development work, enabling me to build robust, scalable web applications.
  + **WordPress Development**: A significant part of my skill set is dedicated to WordPress, where I am adept at custom plugin and theme development, WP CLI, WP REST API, and integrating e-commerce solutions with the WooCommerce plugin. Fast development and successful outcomes.

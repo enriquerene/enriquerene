@@ -6,25 +6,44 @@ I'm Enrique René, a Web and Mobile Developer based in Rio de Janeiro, Brazil.  
 # Professional Journey
 
 ## Featured Steps
-**Unnamed**: Multi-vendor mobile platform solution focused on specific niche needs, built in React Native backed by WordPress and custom plugin extending WooCommerce REST API endpoints.
+**Unnamed**: Multi-vendor mobile platform solution focused on specific niche needs, built in **React Native** backed by **WordPress** and **custom plugin** extending **WooCommerce REST API** endpoints. Applying **AI tools** to **boost development**.
 
-**CNF**: Lead the migration of a legacy PHP system to Laravel framework, implementing a REST API and redesigning the database to handle large datasets exceeding 15GB.
+**CNF**: National deceased register with large **database exceeding 15 GB** size. Migration of a **legacy PHP** system to **Laravel** framework, redesigning database entity relation, implementing a REST API and multi-role management panel using **Filament**.
 
-**PetCoach**: Maintain a Cordova Web App and REST API built in Symfony for a major US Pet Care service, driving SEO and accessibility improvements, leveraging AWS infrastructure, and manage the deployment and scaling of the application, ensuring reliability and performance with effective cross-team work.
+**PetCoach**: US based **pet healthcare** product from large holding company specialized in pet industry. The product offers Question & Answer and online Consultation with pet experts. Maintenance of **Hybrid Mobile App** and website built in **Backbone.js and Cordova**, a **well documented REST API** built in **Symfony** with **Sonata** for administrative panel. Drove **SEO** and **accessibility** improvements, leveraging **AWS** infrastructure, and manage the deployment and scaling of the application, ensuring reliability and performance with effective cross-team work.
 
-**Milbby** : I was part of a large team handling the UI/UX redesign of a Shopify Theme for a leading Spanish e-commerce with more than 2000 products and hundreds of categories, focusing on cross-browser compatibility and performance optimization, which reduced load times by almost 70%.
+**Milbby**: Leading spanish e-commerce with more than 2000 products and hundreds of categories. Handled the **UI/UX** redesign of a **Shopify** Theme following **Adobe XD** wireframes for **pixel perfect** redesign, focusing on **cross-browser compatibility**, **mobile experience** improvements and performance optimization, which reduced load times by almost 70%.
 
-**Clínica Vegetal**
+**Clínica Vegetal**: Plant healthcare mobile app where users can fill a multi-step form including a list of images reporting issues and receive response from experts. Mobile application built in **React Native** backed by **Django REST AP**I on top of **AWS** infrastructure.
 
-**Orça Agora**
+**Orça Agora**: Web platform where printers can see a list of orders and send service proposals to the users who posted them. In turn, users decide who to close a deal with and evaluate the service after delivery. Reward third-party service integration. **Lead a team** composed by two junior developers, management of Trello boards in **startup environment** where developers, client and investor can track progress. Weekly meeting with client and monthly with investors. Tech stack **PHP**, **ReactJS** and **Redux**.
 
 ## Key Skills
- + **PHP Programming**: My primary expertise is in PHP development, with a strong foundation Vanilla PHP and frameworks like **Laravel**, **Slimframework** and Symfony as well. This forms the backbone of my backend development work, enabling me to build robust, scalable web applications.
- + **WordPress Development**: A significant part of my skill set is dedicated to WordPress, where I am adept at custom plugin and theme development, WP CLI, WP REST API, and integrating e-commerce solutions with the WooCommerce plugin. Fast development and successful outcomes.
- + **ReactJS**: Profound experience in developing dynamic and responsive user interfaces, leveraging the complete life cycle of it. Skilled in both class and functional components, hooks, and context API.
- + **React Native**: Proficient in developing cross-platform mobile applications using React Native with Expo and bare workflow. Experience integrating mobile apps with REST APIs, implementing push notifications, handling authentication flows, and optimizing performance for iOS and Android platforms.
- + **MySQL Database**: Experienced in database design and management using MySQL, ensuring data integrity and performance in web applications.
- + **DevOps and Cloud**: Use to AWS services, Docker, CI/CD pipelines, Agile Practices, Scrum, TDD, BDD, Analytics and SEO tools, monitoring system performance and health tools.
+
+### Full Stack Web Development
+ - **Backend**: PHP specialist (Vanilla, Laravel, Slim) for high-performance APIs and eCommerce (PayPal, Stripe). Proficient in Node.js (Express) and Django for versatile solutions.
+ - **Frontend**: ReactJS, Next.js (SSR/SEO), Angular (Ionic), with TailwindCSS, MaterialUI, and SASS for pixel-perfect UIs.
+ - **Testing**: Jest, PHPUnit, Cypress, and Storybook for bulletproof reliability.
+
+### WordPress & eCommerce
+ - **Custom Solutions**: Scalable plugins/themes (WooCommerce, subscriptions), WP REST API, and headless setups.
+ - **Optimization**: Core Web Vitals, Lighthouse audits, and accessibility (WCAG).
+ - **Builders**: Elementor (custom widgets), ACF, and WP-CLI automation.
+
+### Mobile Development
+- **Cross-Platform**: React Native (Expo/bare) and Flutter for unified iOS/Android apps (auth, push notifications, offline sync).
+- **Hybrid**: Ionic (Angular/React) with Cordova for rapid deployment.
+- **Native Performance**: Kotlin (Android) and Swift (iOS) for hardware-level features.
+
+### UI/UX & AI-Powered Design
+ - **Prototyping**: Figma (design systems), Galileo AI (instant mockups).
+ - **AI Productivity**: Claude, DeepSeek, Grok, and Sora for codegen, content, and workflow automation.
+ - **Data-Driven UX**: Google Analytics, Google Search Console, and Looker Studio for user behavior insights.
+
+### Cloud & DevOps
+ - **AWS** (EC2, S3, Lambda), **Docker**, and **CI/CD** (GitHub, GitLab and Bitbucket).
+ - Tracking and Monitoring tools like **JIRA**, **Sentry**, Loggly, and custom dashboards.
+
 
 ## Career Aspiration
 My career trajectory is focused on life-work balance, so flexible hours and remote job are the most important aspects of a job for me. I aim to keep learning and building better and better products on top of LAMP stack. I’m focused on solutions with modern WordPress development bringing Laravel as the core of Plugins and Themes, apply ReactJS to build widgets and React Native for mobile applications consuming WP REST API.

@@ -54,5 +54,5 @@ My career trajectory is focused on life-work balance, so flexible hours and remo
 WordPress and Mobile integratoin using AI tools to boost development, focusing on UI, UX, Customer Experience (CX), marketing strategies and client satisfaction.
 
 # Connect with me
-- Explore my webpage (https://enriquerene.com.br)[https://enriquerene.com.br]
-- Connect on Linkedin (https://www.linkedin.com/in/enriquerenebr)[https://www.linkedin.com/in/enriquerenebr]
+- Explore my webpage [https://enriquerene.com.br]
+- Connect on Linkedin [https://www.linkedin.com/in/enriquerenebr]

@@ -1,5 +1,5 @@
 # Who I am
-I'm Enrique René, a Web and Mobile Developer based in Rio de Janeiro, Brazil.
+I'm Enrique René, a Problem Solver Web and Mobile Developer based in Rio de Janeiro, Brazil.
  - **10+ years** of experience as freelancer, **facing-client**, **translating client's needs into technical solutions**.
  - **4+ years** of experience in an outsourcing near-shore tech company where I work for **international clients** in **global environment** following **agile methodologies**.
 
@@ -34,8 +34,8 @@ I'm Enrique René, a Web and Mobile Developer based in Rio de Janeiro, Brazil.
 
 ### Mobile Development
 - **Cross-Platform**: React Native (Expo/bare) and Flutter for unified iOS/Android apps (auth, push notifications, offline sync).
-- **Hybrid**: Ionic (Angular/React) with Cordova for rapid deployment.
-- **Native Performance**: Kotlin (Android) and Swift (iOS) for hardware-level features.
+- **Hybrid**: ReactJS/Angular with Cordova/Ionic for cost-effective solutions.
+- **Native Bridges**: Kotlin and Swift for platform-specific features.
 
 ### UI/UX & AI-Powered Design
  - **Prototyping**: Figma (design systems), Galileo AI (instant mockups).
@@ -48,11 +48,11 @@ I'm Enrique René, a Web and Mobile Developer based in Rio de Janeiro, Brazil.
 
 
 ## Career Aspiration
-My career trajectory is focused on life-work balance, so flexible hours and remote job are the most important aspects of a job for me. I aim to keep learning and building better and better products on top of LAMP stack. I’m focused on solutions with modern WordPress development bringing Laravel as the core of Plugins and Themes, apply ReactJS to build widgets and React Native for mobile applications consuming WP REST API.
+My career trajectory is focused on life-work balance, so flexible hours and remote job are the most important aspects of a job for me. I'm open for hands-on technical position, facing-client roles and team leader/manager as well.
 
 ## Interests
-WordPress Development. Build Laravel based Plugins and Themes for WordPress. Build React components for better UI/UX. Extend properly all implemented features in WP REST API for possible app integration. ReactJS development as SPA or hybrid mobile application on top of Capacitor or Cordova. React Native for native mobile application development. Preference for small teams or alone.
+WordPress and Mobile integratoin using AI tools to boost development, focusing on UI, UX, Customer Experience (CX), marketing strategies and client satisfaction.
 
 # Connect with me
-- Explore my webpage https://enriquerene.com.br
-- Connect on Linkedin https://www.linkedin.com/in/enriquerenebr
+- Explore my webpage (https://enriquerene.com.br)[https://enriquerene.com.br]
+- Connect on Linkedin (https://www.linkedin.com/in/enriquerenebr)[https://www.linkedin.com/in/enriquerenebr]

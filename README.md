@@ -1,12 +1,12 @@
 # Who I am
-I'm Enrique René, a Problem Solver Web and Mobile Developer based in Rio de Janeiro, Brazil.
+I'm Enrique René, UX Engineer, Full Stack Developer based in Rio de Janeiro, Brazil.
  - **10+ years** of experience as freelancer, **facing-client**, **translating client's needs into technical solutions**.
- - **4+ years** of experience in an outsourcing near-shore tech company where I work for **international clients** in **global environment** following **agile methodologies**.
+ - **5+ years** working for outsourcing near-shore tech company where I work alocated in international clients in global environment following agile methodologies.
 
 # Professional Journey
 
 ## Featured Steps
-**Unnamed**: Multi-vendor mobile platform solution focused on specific niche needs, built in **React Native** backed by **WordPress** and **custom plugin** extending **WooCommerce REST API** endpoints. Applying **AI tools** to **boost development**.
+**Trident1**: US based **commerce management system** for in-person firearm store what is extending to **high scale ecommerce** bringing new needs on its architecture demanding redesign of legacy non-OOP PHP source code into modern stack. Additionally the system integrates to several ecommerce platforms like **WooCommerce**, **Shopify**, Big Commerce among others.
 
 **CNF**: National deceased register with large **database exceeding 15 GB** size. Migration of a **legacy PHP** system to **Laravel** framework, redesigning database entity relation, implementing a REST API and multi-role management panel using **Filament**.
 
@@ -22,36 +22,33 @@ I'm Enrique René, a Problem Solver Web and Mobile Developer based in Rio de Jan
 
 ## Key Skills
 
-### Full Stack Web Development
- - **Backend**: PHP specialist (Vanilla, Laravel, Slim) for high-performance APIs and eCommerce (PayPal, Stripe). Proficient in Node.js (Express) and Django for versatile solutions.
- - **Frontend**: ReactJS, Next.js (SSR/SEO), Angular (Ionic), with TailwindCSS, MaterialUI, and SASS for pixel-perfect UIs.
- - **Testing**: Jest, PHPUnit, Cypress, and Storybook for bulletproof reliability.
+### UI/UX Design & Prototyping
+ - **Design and Prototyping**: Figma (Design Systems, Component Libraries), Adobe XD, Galileo AI (mockups), Sora AI for images.
+ - **UX Research & Data-Driven Design**: Google Analytics, Google Search Console, Looker Studio for behavior insights.
+ - **Accessibility & Performance**: WCAG, Core Web Vitals, performance optimization (Lighthouse).
 
-### WordPress & eCommerce
- - **Custom Solutions**: Scalable plugins/themes (WooCommerce, subscriptions), WP REST API, and headless setups.
- - **Optimization**: Core Web Vitals, Lighthouse audits, and accessibility (WCAG).
- - **Builders**: Elementor (custom widgets), ACF, and WP-CLI automation.
+### Frontend & Web Development
+ - **Web Development**: ReactJS, Next.js (SSR/SEO), Angular (Ionic).
+ - **Hibrid/Native Mobile**: React Native (expo), Cordova, Capacitor.
+ - **Styles**: TailwindCSS, Material-UI, Tamagui, SASS/SCSS, Bootstrap.
+ - **Frontend Quality**: Jest, Cypress, Storybook.
 
-### Mobile Development
-- **Cross-Platform**: React Native (Expo/bare) and Flutter for unified iOS/Android apps (auth, push notifications, offline sync).
-- **Hybrid**: ReactJS/Angular with Cordova/Ionic for cost-effective solutions.
-- **Native Bridges**: Kotlin and Swift for platform-specific features.
+### Full Stack & Integration
+ - **Backend**: PHP (Symfony, Laravel, Slim), Node.js (Express, NestJS), Python (Flask, Django REST Framework), C++ (Crow).
+ - **API Integration**: REST API, GraphQL, platform integration (Shopify, WooCommerce, PayPal, Stripe)
+ - **Architecture**: Headless CMS (WordPress REST API), PWAs, legacy systems.
 
-### UI/UX & AI-Powered Design
- - **Prototyping**: Figma (design systems), Galileo AI (instant mockups).
- - **AI Productivity**: Claude, DeepSeek, Grok, and Sora for codegen, content, and workflow automation.
- - **Data-Driven UX**: Google Analytics, Google Search Console, and Looker Studio for user behavior insights.
-
-### Cloud & DevOps
- - **AWS** (EC2, S3, Lambda), **Docker**, and **CI/CD** (GitHub, GitLab and Bitbucket).
- - Tracking and Monitoring tools like **JIRA**, **Sentry**, Loggly, and custom dashboards.
+### DevOps
+ - **Cloud & Infra**: AWS (EC2, S3, Lambda), Docker, CI/CD (GitHub, GitLab and Bitbucket).
+ - **Monitoring & Management**: JIRA, Sentry, Loggly, Trello.
+ - **Productivity**: DeepSeek, Claude, Junie Pro, GalileoUI, UX-Pilot, Sora.
 
 
 ## Career Aspiration
-My career trajectory is focused on life-work balance, so flexible hours and remote job are the most important aspects of a job for me. I'm open for hands-on technical position, facing-client roles and team leader/manager as well.
+My career trajectory is focused on life-work balance, so flexible hours and be remote are the most important aspects of a job for me. Be recognized by UX development bringing excellent outcomes.
 
 ## Interests
-WordPress and Mobile integratoin using AI tools to boost development, focusing on UI, UX, Customer Experience (CX), marketing strategies and client satisfaction.
+Apply and develop skills on UX aspects and delivery high quality software achieving business needs going after client satisfaction. Design systems and UI redesign enhancing best UX.
 
 # Connect with me
 - Webpage https://enriquerene.com.br

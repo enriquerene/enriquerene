@@ -45,12 +45,14 @@ I'm Enrique René, UX Engineer, Full Stack Developer based in Rio de Janeiro, Br
 
 
 ## Career Aspiration
-My career trajectory is focused on life-work balance, so flexible hours and be remote are the most important aspects of a job for me. Be recognized by UX development bringing excellent outcomes.
+My career trajectory is focused on life-work balance, so flexible hours and be remote are the most important aspects of a job for me. In the long term I expect to build astonish and impactful products across several industries.
+Products recognized by awesome Full Stack UX: appealing and responsive UI supported by properly designed backend. Deliver documented, well tested and scalable software always achieving client satisfaction.
 
 ## Interests
-Apply and develop skills on UX aspects and delivery high quality software achieving business needs going after client satisfaction. Design systems and UI redesign enhancing best UX.
+As Full Stack UX Engineer, I always aim to achieve users expectations and give them the best experience as possible developing intuitive and responsive UI, predictable and scalable backend designed to fit users needs served by properly configured infrastructure, providing consistent UX First end-to-end solutions.
 
 # Connect with me
 - Webpage https://enriquerene.com.br
 - Linkedin https://www.linkedin.com/in/enriquerenebr
 - Medium https://medium.com/@enriquerenebr
+- Dribbble https://dribbble.com/enriquerene

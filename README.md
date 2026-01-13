@@ -1,5 +1,5 @@
 # Who I am
-I'm Enrique René, UX Engineer, Full Stack Developer based in Rio de Janeiro, Brazil.
+I'm Enrique René, Full Stack UX Engineer based in Rio de Janeiro, Brazil.
  - **10+ years** of experience as freelancer, **facing-client**, **translating client's needs into technical solutions**.
  - **5+ years** working for outsourcing near-shore tech company where I work alocated in **international clients (EUR and US based)** in **global environment** with **different timezones** across the team following **agile methodologies**.
 

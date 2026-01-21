@@ -14,8 +14,6 @@ I'm Enrique René, Full Stack UX Engineer based in Rio de Janeiro, Brazil.
 
 **Milbby**: Leading spanish e-commerce with more than 2000 products and hundreds of categories. Handled the **UI/UX** of a **Shopify** Theme following **Adobe XD** wireframes for **pixel perfect** redesign, focusing on **cross-browser compatibility**, **mobile experience** improvements and performance optimization, which reduced load time by almost 70%.
 
-**Clínica Vegetal**: Plant healthcare mobile app where users can fill a multi-step form including a list of images reporting issues and receive response from experts. Mobile application built in **React Native** backed by **Django REST AP** on top of **AWS** infrastructure.
-
 **Orça Agora**: Web platform where printers can see a list of orders and send service proposals to the users who posted them. In turn, users decide who to close a deal with and evaluate the service after delivery. Reward third-party service integration. **Lead a team** composed by two junior developers, management of Trello boards in **startup environment** where developers, client and investor can track progress. Weekly meeting with client and monthly with investors. Tech stack **PHP**, **ReactJS** and **Redux**.
 
 ## Key Skills

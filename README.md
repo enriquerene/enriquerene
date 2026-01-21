@@ -1,55 +1,57 @@
-# Who I am
-I'm Enrique René, Full Stack UX Engineer based in Rio de Janeiro, Brazil.
- - **10+ years** of experience as freelancer, **facing-client**, **translating client's needs into technical solutions**.
- - **5+ years** working for outsourcing near-shore tech company where I work alocated in **international clients (EUR and US based)** in **global environment** with **different timezones** across the team following **agile methodologies**.
+**ENRIQUE RENÉ BEAUXIS REYES**
+Senior Full Stack Engineer | PHP, React & WordPress Specialist
+Maricá, RJ, Brazil | https://linkedin.com/in/enriquerenebr | enriquerenebr@gmail.com
 
-# Professional Journey
+#### PROFESSIONAL SUMMARY
 
-## Featured Steps
-**Trident1**: US based **commerce management system** for in-person firearm store what is extending to **high scale ecommerce** bringing new needs on its architecture demanding redesign of legacy non-OOP PHP source code into modern stack. Additionally the system integrates to several ecommerce platforms like **WooCommerce**, **Shopify**, Big Commerce among others.
+**Senior Full Stack Engineer** with a unique background in **Physics**, applying rigorous analytical methodologies to build scalable **E-commerce** solutions using **Modern WordPress**, **Laravel**, and **React**. A "UX-Aware" developer, I bridge the gap between backend logic and  pixel-perfect UI, passionate about crafting high-converting shopping  experiences from **Figma** designs. Beyond code, I engineer custom **Analytics (GTM/GA4)** data layers to track business KPIs, ensuring technical solutions drive measurable commercial growth.
 
-**CNF**: National deceased register with large **database exceeding 15 GB** size. Migration of a **legacy PHP** system to **Laravel** framework, redesigning database entity relation, implementing a REST API and multi-role management panel using **Filament**.
+#### TECHNICAL SKILLS
+*   **Core:** PHP (8.x), JavaScript (ES6+), React.js, Redux, MySQL, PostgreSQL.
+*   **CMS & E-commerce:** **WordPress** (Custom Themes, Block Editor/Gutenberg, Headless), **Shopify** (Liquid), WooCommerce.
+*   **Frameworks:** Laravel, Symfony, Next.js, TailwindCSS, Tamagui, SCSS.
+*   **Tools & DevOps:** Docker, AWS (EC2, S3, RDS), Sentry, Git (GitHub/GitLab), CI/CD pipelines.
+*   **Design & Analytics:** Figma (Dev Handoff), Google Analytics 4, Google Tag Manager (Data Layer implementation), Adobe XD.
 
-**PetCoach**: US based **pet healthcare** product from large holding company specialized in pet industry. The product offers Question & Answer and online Consultation with pet experts. Maintenance of **Hybrid Mobile App** and website built in **Backbone.js and Cordova**, a **Swagger** documented **REST API** built in **Symfony** with **Sonata** for administrative panel. Drove **SEO** and **accessibility** improvements, leveraging **AWS** infrastructure, and manage the deployment and scaling of the application, ensuring reliability and performance with effective cross-team work.
+#### PROFESSIONAL EXPERIENCE
 
-**Milbby**: Leading spanish e-commerce with more than 2000 products and hundreds of categories. Handled the **UI/UX** of a **Shopify** Theme following **Adobe XD** wireframes for **pixel perfect** redesign, focusing on **cross-browser compatibility**, **mobile experience** improvements and performance optimization, which reduced load time by almost 70%.
+**Full Stack Engineer (Contract)** | **Trident1** (US Firearm Industry)
+*Dates: 07/2025 - 12/2025*
 
-**Orça Agora**: Web platform where printers can see a list of orders and send service proposals to the users who posted them. In turn, users decide who to close a deal with and evaluate the service after delivery. Reward third-party service integration. **Lead a team** composed by two junior developers, management of Trello boards in **startup environment** where developers, client and investor can track progress. Weekly meeting with client and monthly with investors. Tech stack **PHP**, **ReactJS** and **Redux**.
+*   Migration of a legacy non-OOP PHP WordPress plugin to modern block based composer based PHP 8.3 project.
+*   Developed complex integrations between the POS system and external WooCommerce platforms.
 
-## Key Skills
+**Senior Full Stack Engineer** | **Oowlish** (Remote / US Clients)
+*Dates: 01/2021 – 05/2025*
+*Provided staff-augmentation services for high-profile US startups. Key projects included:*
 
-### UI/UX Design & Prototyping
- - **Design and Prototyping**: Figma (Design Systems, Component Libraries), Adobe XD, Galileo AI (mockups), Sora AI for images.
- - **UX Research & Data-Driven Design**: Google Analytics, Google Search Console, Looker Studio for behavior insights.
- - **Accessibility & Performance**: WCAG, Core Web Vitals, performance optimization (Lighthouse).
+*   **Project: PetCoach (US Pet Healthcare)**
+    *   Maintained and modernized a high-traffic legacy application using **Symfony**, **Backbone.js**, and **Cordova**.
+    *   Managed AWS infrastructure (EC2, RDS) ensuring 99.9% uptime for paid consultation services.
+    *   Implemented **SEO** strategies and **Accessibility (WCAG)** improvements, increasing organic search traffic.
+    *   Led the integration of Stripe/PayPal payment gateways and automated CI/CD pipelines via GitLab.
 
-### Frontend & Web Development
- - **Web Development**: ReactJS, Next.js (SSR/SEO), Angular (Ionic).
- - **Hibrid/Native Mobile**: React Native (expo), Cordova, Capacitor.
- - **Styles**: TailwindCSS, Material-UI, Tamagui, SASS/SCSS, Bootstrap.
- - **Frontend Quality**: Jest, Cypress, Storybook.
+*   **Project: Milbby (European E-commerce)**
+    *   Executed a pixel-perfect redesign of a massive Shopify store (2000+ products).
+    *   Optimized Liquid code and JS bundles, achieving a **70% reduction in page load time** (verified via Lighthouse).
+    *   Translated Adobe XD wireframes into responsive, cross-browser compatible themes.
 
-### Full Stack & Integration
- - **Backend**: PHP (Symfony, Laravel, Slim), Node.js (Express, NestJS), Python (Flask, Django REST Framework), C++ (Crow).
- - **API Integration**: REST API, GraphQL, platform integration (Shopify, WooCommerce, PayPal, Stripe)
- - **Architecture**: Headless CMS (WordPress REST API), PWAs, legacy systems.
+**Full Stack Developer** | **CNF (National Registry)**
+*Dates: 04/2024 – 02/2025*
 
-### DevOps
- - **Cloud & Infra**: AWS (EC2, S3, Lambda), Docker, CI/CD (GitHub, GitLab and Bitbucket).
- - **Monitoring & Management**: JIRA, Sentry, Loggly, Trello.
- - **Productivity**: DeepSeek, Claude, Junie Pro, GalileoUI, UX-Pilot, Sora.
+*   Migrating a 15GB+ database system from legacy PHP to **Laravel** & **Filament**.
+*   Designing a REST API to serve external partners and modernizing the UI with Bootstrap-based design systems.
 
+**Freelance Web Developer & Consultant** | Self-Employed
+*Dates: 2011 – 2021*
 
-## Career Aspiration
-My career trajectory is focused on life-work balance, so flexible hours and be remote are the most important aspects of a job for me. In the long term I expect to build astonish and impactful products across several industries.
+*   Delivered 20+ web projects for startups and local businesses.
+*   Built custom PWA solutions using **React**.
+*   **AWS LightSail** and **Django REST Framework**.
+*   Developed custom WordPress themes and plugins, integrating Google Maps API and WhatsApp automated messaging robots.
+*   **Analytics Focus:** Configured advanced tracking setups using Google Tag Manager to help clients understand user behavior.
 
-Products recognized by awesome Full Stack UX: appealing and responsive UI supported by properly designed backend. Deliver documented, well tested and scalable software always achieving client satisfaction.
-
-## Interests
-As Full Stack UX Engineer, I always aim to achieve users expectations and give them the best experience as possible developing intuitive and responsive UI, predictable and scalable backend designed to fit users needs served by properly configured infrastructure, providing consistent UX First end-to-end solutions.
-
-# Connect with me
-- Webpage https://enriquerene.com.br
-- Linkedin https://www.linkedin.com/in/enriquerenebr
-- Medium https://medium.com/@enriquerenebr
-- Dribbble https://dribbble.com/enriquerene
+#### EDUCATION
+**B.Sc. in Physics**
+Universidade Federal Fluminense (UFF) – Niterói, Brazil
+*   *Relevance:* Applied mathematical modeling and rigorous logic to software architecture and algorithm optimization.

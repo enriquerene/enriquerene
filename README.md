@@ -16,13 +16,13 @@ Maricá, RJ, Brazil | https://linkedin.com/in/enriquerenebr | enriquerenebr@gmai
 #### PROFESSIONAL EXPERIENCE
 
 **Full Stack Engineer (Contract)** | **Trident1** (US Firearm Industry)
-*Dates: 07/2025 - 12/2025*
+*07/2025 - 12/2025*
 
 *   Migration of a legacy non-OOP PHP WordPress plugin to modern block based composer based PHP 8.3 project.
 *   Developed complex integrations between the POS system and external WooCommerce platforms.
 
 **Senior Full Stack Engineer** | **Oowlish** (Remote / US Clients)
-*Dates: 01/2021 – 05/2025*
+*01/2021 – 05/2025*
 *Provided staff-augmentation services for high-profile US startups. Key projects included:*
 
 *   **Project: PetCoach (US Pet Healthcare)**
@@ -37,13 +37,13 @@ Maricá, RJ, Brazil | https://linkedin.com/in/enriquerenebr | enriquerenebr@gmai
     *   Translated Adobe XD wireframes into responsive, cross-browser compatible themes.
 
 **Full Stack Developer** | **CNF (National Registry)**
-*Dates: 04/2024 – 02/2025*
+*04/2024 – 02/2025*
 
 *   Migrating a 15GB+ database system from legacy PHP to **Laravel** & **Filament**.
 *   Designing a REST API to serve external partners and modernizing the UI with Bootstrap-based design systems.
 
 **Freelance Web Developer & Consultant** | Self-Employed
-*Dates: 2011 – 2021*
+*2011 – 2021*
 
 *   Delivered 20+ web projects for startups and local businesses.
 *   Built custom PWA solutions using **React**.

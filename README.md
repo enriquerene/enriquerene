@@ -1,7 +1,5 @@
 **ENRIQUE RENÉ BEAUXIS REYES**
-
 Senior Full Stack Engineer | PHP, React & WordPress Specialist
-
 Maricá, RJ, Brazil | https://linkedin.com/in/enriquerenebr | enriquerenebr@gmail.com
 
 #### PROFESSIONAL SUMMARY

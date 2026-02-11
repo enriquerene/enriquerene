@@ -1,5 +1,6 @@
 ### **ENRIQUE RENÉ BEAUXIS REYES**
 **Senior Full Stack Engineer** | Laravel, React & Cloud Architecture
+
 Maricá, RJ, Brazil (Open to Remote) | [https://enriquerene.com.br](https://enriquerene.com.br) | enriquerenebr@gmail.com
 
 #### **PROFESSIONAL SUMMARY**

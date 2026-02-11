@@ -1,3 +1,5 @@
+![Enrique](https://media.licdn.com/dms/image/v2/D4D16AQFjqa90-caPtg/profile-displaybackgroundimage-shrink_350_1400/B4DZxMMDrcH4Ag-/0/1770804756048?e=1772668800&v=beta&t=R-bCTGNJAHkMb4RIsWrN9vpTyPeMQGfk0Yc7JKcK0MA)
+
 ### **ENRIQUE RENÉ BEAUXIS REYES**
 **Senior Full Stack Engineer** | Laravel, React & Cloud Architecture
 

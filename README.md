@@ -2,9 +2,12 @@
 
 # ENRIQUE RENÉ BEAUXIS REYES
 Senior Software Architect | E-commerce & Modernization Specialist
+
 B.Sc. in Physics (UFF).
+
 Maricá, RJ, Brazil | +55 21 96447-0631 | enriquerenebr@gmail.com
-![https://enriquerene.com.br](https://enriquerene.com.br) 
+
+[https://enriquerene.com.br](https://enriquerene.com.br) 
 
 ## PROFESSIONAL SUMMARY
 

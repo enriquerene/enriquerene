@@ -1,4 +1,4 @@
-![Enrique](https://media.licdn.com/dms/image/v2/D4D16AQFjqa90-caPtg/profile-displaybackgroundimage-shrink_350_1400/B4DZxMMDrcH4Ag-/0/1770804756048?e=1772668800&v=beta&t=R-bCTGNJAHkMb4RIsWrN9vpTyPeMQGfk0Yc7JKcK0MA)
+![Enrique](https://media.licdn.com/dms/image/v2/D4D16AQERfYhPcNdvkg/profile-displaybackgroundimage-shrink_350_1400/B4DZ1Eyn3.KoAY-/0/1774975618185?e=1776902400&v=beta&t=kq3VHRuLRHpN44Cp8fdFS6RCNnU5THt1nGIONWRCdAM)
 
 # ENRIQUE RENÉ BEAUXIS REYES
 

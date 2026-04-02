@@ -1,67 +1,60 @@
 ![Enrique](https://media.licdn.com/dms/image/v2/D4D16AQERfYhPcNdvkg/profile-displaybackgroundimage-shrink_350_1400/B4DZ1Eyn3.KoAY-/0/1774975618185?e=1776902400&v=beta&t=kq3VHRuLRHpN44Cp8fdFS6RCNnU5THt1nGIONWRCdAM)
 
 # ENRIQUE RENÉ BEAUXIS REYES
+Senior Software Architect | E-commerce & Modernization Specialist
+B.Sc. in Physics (UFF).
+Maricá, RJ, Brazil | +55 21 96447-0631 | enriquerenebr@gmail.com
+![https://enriquerene.com.br](https://enriquerene.com.br) 
 
-**Senior Full Stack Engineer | Laravel, React & Cloud Architecture**
-<br/>Maricá, RJ, Brazil (Open to Remote)<br/>[https://enriquerene.com.br](https://enriquerene.com.br)<br/>enriquerenebr@gmail.com
+## PROFESSIONAL SUMMARY
 
-### PROFESSIONAL SUMMARY
+High-impact Software Architect with 16 years of experience specializing in high-scale E-commerce and legacy system modernization. I take total ownership of business outcomes by translating complex stakeholder needs into robust technical requirements. My approach combines a Physicist’s analytical rigor with a deep focus on UX and scalable cloud-native backends. I architect systems specifically designed for **AI-augmented delivery**, implementing rigorous specifications and **TDD** to ensure AI agents operate within safe, predictable, and high-quality architectural guardrails.
 
-**Senior Full Stack Engineer** with a **B.Sc. in Physics**, blending rigorous analytical logic with **AI-augmented efficiency** to build high-reliability web solutions. I specialize in modernizing legacy architectures, orchestrating complex database migrations, and engineering "bulletproof" systems where precision is paramount.
+### CORE COMPETENCIES
 
-A **risk-mitigation expert**, I focus on creating predictable, stable deployment pipelines. I leverage **Contextualized AI Agents** to accelerate development velocity while maintaining strict code quality standards, bridging the gap between complex backend logic and revenue-driving frontend experiences.
+- **Strategic Translation:** Mapping business objectives to technical specifications and domain-driven design.
+- **Modernization & Scale:** Refactoring legacy stacks (jQuery/Backbone/PHP 5) into modern, cloud-scaled ecosystems.
+- **UX-Aware Engineering:** Developing high-performance frontends (Storybook/Tailwind) with a focus on conversion and retention.
+- **AI-Reliability Workflow:** Expert in AI agent orchestration (Roo Code/MCP) using structured context to ensure code quality and architectural integrity.
+- **Analytical Foundations:** Applying First Principles from Physics to solve complex data integrity and performance bottlenecks.
 
-### TECHNICAL SKILLS
 
-*   **Core & Languages:** PHP 8.x (Strict Typing), JavaScript (ES6+), TypeScript, SQL (MySQL/PostgreSQL), Python (for AI Agents).
-*   **Frameworks:** Laravel, Symfony, React.js, Next.js, Redux, TailwindCSS.
-*   **Architecture & Stability:** DDD (Domain-Driven Design), Microservices, Modular Monoliths, Legacy Refactoring.
-*   **Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, GitLab CI/CD (Automated Testing Pipelines), Sentry (Error Monitoring).
-*   **AI & Analytics:** Contextualized AI Workflows, LLM Prompt Engineering, Google Tag Manager (Data Layers), GA4.
-
----
 
 ### PROFESSIONAL EXPERIENCE
 
-**Full Stack Engineer (Contract) | Trident1 (US Firearm Industry)**
-*07/2025 – 12/2025*
-*Engineered the modernization of a high-compliance legacy ecosystem, prioritizing security and stability.*
+**Trident1 (US Firearm Industry) | Software Architect (Contract)** *July 2025 – December 2025*
 
-*   **Legacy Modernization:** Refactored a monolithic, non-OOP legacy plugin into a **modular, Composer-based PHP 8.3 architecture**. Applied strict typing and automated testing to ensure zero regression in a high-risk industry.
-*   **System Integration:** Architected complex bi-directional integrations between a custom POS system and external WooCommerce platforms, ensuring **real-time inventory synchronization** with mathematical accuracy.
-*   **Process Improvement:** Implemented AI-assisted documentation and unit test generation, reducing technical debt onboarding time for future developers.
+- **Business Impact:** Took full accountability for the modernization of a legacy POS/E-commerce ecosystem, ensuring the technical roadmap aligned with strict industry compliance.
+- **Technical Execution:** Architected a modular PHP 8.3 environment, replacing monolithic technical debt with tested, scalable integrations.
+- **Outcome:** Established a high-velocity AI-assisted workflow that maintained 100% logic accuracy via comprehensive TDD specs.
 
-**Full Stack Developer (Contract) | CNF (National Registry)**
-*06/2024 – 02/2025*
-*Led a critical government data migration initiative with zero tolerance for data loss.*
+**Oowlish (Remote / US Clients) | Senior Full Stack Engineer** *January 2021 – May 2025*
 
-*   **High-Stakes Migration:** Orchestrated the migration of a **15GB+ database system** from legacy PHP to a modern **Laravel & Filament** stack. Achieved **100% data integrity** through rigorous pre-migration validation scripts.
-*   **Secure API Architecture:** Designed a secure, compliant REST API to serve external government partners, prioritizing uptime and request validation.
-*   **UI/UX Modernization:** Overhauled the administrative UI using Bootstrap-based design systems to streamline internal workflows, reducing user error rates.
+- **PetCoach (US Pet Health SaaS):** Owned the technical lifecycle of a multi-repo Symfony/Backbone.js platform. Managed 15+ third-party integrations (Payments, SEO, Security, Analytics).
+- **Outcome:** Translated vague business goals for "live veterinary consultations" into a high-uptime, real-time chat architecture on AWS.
+- **Milbby:** Led a performance-centric redesign of a major Shopify store.
+- **Business Value:** Leveraged AI-augmented refactoring to reduce technical debt by 40%, directly improving SEO rendering and site speed.
 
-**Senior Full Stack Engineer | Oowlish (US Staff Augmentation)**
-*01/2021 – 05/2025*
-*Lead Engineer for high-profile US startups, focusing on performance, scalability, and predictable deployments.*
+**CNF (National Registry) | Lead Modernization Engineer** *April 2024 – February 2025*
 
-**Project: PetCoach (Healthcare SaaS)**
+- **Ownership:** Orchestrated a zero-loss migration of a 15GB+ database into a modern Laravel/Filament architecture.
+- **Solution:** Defined precise software behavior specs that allowed for rapid, high-quality development cycles while ensuring institutional data integrity.
 
-*   **Lifecycle Extension:** Modernized a high-traffic legacy application using **Symfony, Backbone.js, and Cordova**, extending the product lifecycle by 2+ years without disrupting active users.
-*   **Infrastructure Reliability:** Managed AWS infrastructure (EC2, RDS), achieving **99.9% uptime** for critical paid consultation services through proactive monitoring and auto-scaling strategies.
-*   **Safe Automation:** Automated deployment workflows via **GitLab CI/CD**, reducing release times by 40% while implementing "safety gates" to prevent bad builds from reaching production.
+**Freelance & Independent Consulting | Senior Web Consultant** *2011 – 2021*
 
-**Project: Milbby (High-Volume E-commerce)**
+- **Role:** Acted as a Technical Founder/Partner for **SMB** clients, taking projects from initial conceptualization to scalable SaaS production.
+- **Outcome:** Built custom management systems and high-conversion landing pages, focusing on the intersection of code efficiency and business profitability.
 
-*   **Performance Engineering:** Optimized Liquid code and JS bundles, achieving a **70% reduction in page load time** (verified via Core Web Vitals), directly correlating to increased conversion rates.
-*   **Pixel-Perfect Execution:** Translated Adobe XD wireframes into responsive Shopify themes with strict fidelity, ensuring brand consistency across devices.
+### CURRENT VENTURES
 
-**Senior Web Consultant | Self-Employed**
-*2011 – Present*
-*Providing full-cycle development, analytics, and architectural consulting.*
+- **TechBelt (Founder/Architect):** Building a Fight Gym Management SaaS. Focus: Using TALL stack and Storybook to solve complex membership and financial business rules.
+- **Além do Ringue (Director):** Digital agency for combat athletes. Translating athlete branding into tangible sponsorship ROI through data-driven media kits.
 
-*   **Cloud Architecture:** Deployed scalable hosting solutions using AWS Lightsail/DigitalOcean, focusing on cost-efficiency and security.
-*   **Advanced Analytics:** Configured complex GTM/GA4 data layers to track granular user behavior, providing clients with actionable data to optimize sales funnels.
-*   **PWA Development:** Built custom Progressive Web Apps using React and Django REST Framework.
+### TECHNICAL TOOLKIT
 
+- **Languages & Frameworks:** PHP 8.3 (Laravel/TALL), Symfony, React, Next.js, Python/Django, Express/Node.js, CMS.
+- **Architecture & Cloud:** AWS, Docker, Multi-repo Management, REST/GraphQL, Headless E-commerce.
+- **AI & Quality:** AI Agent Orchestration (Custom .clinerules/MCP), Storybook, TDD, Playwright, GA4/SEO.
 ---
 
 ### EDUCATION

@@ -1,7 +1,8 @@
-![Enrique](https://media.licdn.com/dms/image/v2/D4D16AQERfYhPcNdvkg/profile-displaybackgroundimage-shrink_350_1400/B4DZ1Eyn3.KoAY-/0/1774975618185?e=1776902400&v=beta&t=kq3VHRuLRHpN44Cp8fdFS6RCNnU5THt1nGIONWRCdAM)
+![Enrique](https://media.licdn.com/dms/image/v2/D4D16AQERfYhPcNdvkg/profile-displaybackgroundimage-shrink_200_800/B4DZ1Eyn3.KoAU-/0/1774975618185?e=1779321600&v=beta&t=BPvOXovOPlTKBQvEFc8pwC6mrDjIwKmGNOcOhgVwGF4)
+
 
 # ENRIQUE RENÉ BEAUXIS REYES
-Senior Software Architect | E-commerce & Modernization Specialist
+Software Architect | Headless E-commerce & AI-Orchestration Expert | AWS & Serverless Specialist | PHP, TypeScript, Python
 
 B.Sc. in Physics (UFF).
 
